@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(247, 205, 155);
+    font-family: Georgia, Garamond, serif;
+}
+
+.card { 
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin: 10px auto;
+    display: block;
+}
+
+.description, .ingredients, .steps {
+    background-color: rgb(240, 226, 210);
+    padding: 20px;
+    margin-bottom: 10px;
+}
